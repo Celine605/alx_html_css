@@ -1,0 +1,1 @@
+First this HTML Advaced Task we first created our header that includes the HTML skeleton (html, head, body, etc.)
