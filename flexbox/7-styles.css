@@ -175,17 +175,18 @@
   /* Grid
       ============================= */
   
+  .row {
+    display: flex;
+  }
+  
   ul.row {
     margin: -1rem;
     padding: 0;
     list-style: none;
   }
 
-  .row {
-    display: flex;
-    float: left;
+  [class*='col-'] {
     margin: 1rem;
-    
   }
   
   .col-1-3 {
